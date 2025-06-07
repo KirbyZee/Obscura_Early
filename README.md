@@ -7,7 +7,7 @@
 This is an **early development build** intended for demonstration and testing purposes only. The current version **does not include encryption** or master key functionality, making it unsuitable for storing real passwords.
 
 ### Legal Notice
-- All rights reserved © 2024
+- All rights reserved © 2025
 - This code is provided for educational and demonstration purposes only
 - Unauthorized copying, modification, distribution, or use of this software is strictly prohibited
 - This is a proprietary codebase and is not available for public use or modification
